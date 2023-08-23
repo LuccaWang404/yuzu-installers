@@ -75,7 +75,7 @@ jobs:
           $response = Invoke-RestMethod -Uri "https://api.github.com/repos/yuzu-emu/yuzu-mainline/releases/latest"
           $tag_name = $response.tag_name
           echo "build_version=$tag_name" >> $env:GITHUB_OUTPUT
-          $7zFile = $release.assets | Where-Object { $_.name -like "*.7z" }
+          $7zFile = $response.assets | Where-Object { $_.name -like "*.7z" }
           $browser_download_url = $7zFile[0].browser_download_url
           echo "download_url=$browser_download_url" >> $env:GITHUB_OUTPUT
         shell: powershell
