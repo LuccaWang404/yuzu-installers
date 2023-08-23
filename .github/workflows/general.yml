@@ -1,9 +1,7 @@
 on:
   schedule:
-    # check update per 5 minutes (test only)
-    - cron: '*/5 * * * *'
-    # check update per 12 hours
-    # - cron: '0 */12 * * *'
+    # check update per 4 hours
+    - cron: '0 */4 * * *'
 
 jobs:
   tag:
