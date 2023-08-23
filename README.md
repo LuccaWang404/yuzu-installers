@@ -13,7 +13,7 @@
        此仓库包含柚子模拟器安装程序的发行版本和安装程序以 <a href ="https://jrsoftware.org/isinfo.php">Inno Setup</a> 脚本编写的源代码。</br>
        此项目为一个<b>非官方的</b>柚子任天堂Switch模拟器安装程序构建版本。</b></br>
        如果您想要了解各版本的更新内容，请前往官方仓库的发布页面以查看最新的<a href="https://github.com/yuzu-emu/yuzu-mainline/releases/latest">Changelog</a>。</br>
-       <b>❗️注意：本项目与柚子模拟器官方项目没有任何直接联系。如需要了解更多细节，请前往<a href="https://github.com/yuzu-emu/yuzu">官方仓库。</a>❗️</b></br>
+       <b>❗️注意：本项目与柚子模拟器官方项目没有任何直接联系。如需要了解更多细节，请前往<a href="https://github.com/yuzu-emu/yuzu">官方仓库</a>。❗️</b></br>
        <b>❗️另外，由于本安装程序仍处于测试阶段，所有功能可能均不稳定并可能导致数据丢失，请谨慎使用❗️</b></br>
        <b>❗️我不会对任何因使用本程序造成的数据丢失负责❗️</b></br>
        <b>❗️我不会提供yuzu EAP版本的安装程序❗️</b></br>
