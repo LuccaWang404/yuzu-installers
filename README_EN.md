@@ -51,7 +51,7 @@ Now, double-click the file, you can start the game contains in the NSP package* 
 | .nso     | Nintendo Switch Executable File     |
 | .kip     | Nintendo Switch Executable File     |
 
-After the installation, please see the official wiki to finish configuration of the emulator. 
+After installation, please see the official wiki to finish configuration of the emulator. 
 
 [Official Wiki](https://yuzu-emu.org/wiki/)
 
