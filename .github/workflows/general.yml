@@ -1,7 +1,7 @@
 on:
   schedule:
     # check update per 4 hours
-    - cron: '0 */4 * * *'
+    # - cron: '0 */4 * * *'
     # test only:
     - cron: '*/5 * * * *'
 
