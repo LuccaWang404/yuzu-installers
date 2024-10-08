@@ -9,7 +9,7 @@
 
 [ENGLISH](./README.md) | 简体中文
 
-<p align="center">
+<p>
        此仓库包含<b>自动编译的</b>柚子模拟器安装程序和安装程序以 <a href ="https://jrsoftware.org/isinfo.php">Inno Setup</a> 脚本编写的源代码。</br>
        此项目是一个<b>非官方的</b>、一个利用GH Actions自动编译yuzu模拟器安装程序的项目。</b></br>
        如果您想要了解各版本的更新内容，请前往官方仓库的发布页面以查看最新的<a href="https://github.com/yuzu-emu/yuzu-mainline/releases/latest">Changelog（现在不可用）</a>。</br>
@@ -17,6 +17,7 @@
 <b>由于柚子模拟器已于2024年3月被迫删库跑路（真服了任天堂法务部），其余的镜像仓库也被DMCA takedown，该项目不会继续更新。</b></br>
 <b>如果该项目没有被DMCA takedown，所有已编译的安装程序均可到本项目的<a href ="https://github.com/LuccaWang404/yuzu-installers/releases">Releases</a>页面下载。</b>
 </p>
+
 
 
 ## 使用
