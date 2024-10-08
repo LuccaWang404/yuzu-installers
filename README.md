@@ -14,8 +14,8 @@ ENGLISH | [简体中文](./README_CN.md)
        Setup</a> Script.</br>
        If you want to check out the update details of each version, please visit the official release page to see the <a href="https://github.com/yuzu-emu/yuzu-mainline/releases/latest">Official Changelog(Not available now)</a>.</br>
        This project can check for updates regularly and built the installers instantly by GitHub Actions, so it is generally synchronized with the progress of the yuzu <b>mainline</b> release channel.</br>
-	<b>As yuzu's repository was forced to be deleted by Nintendo's legal department, and the remaining mirrors were also taken down by DMCA, this project will no longer be updated.</b></br>
-	<b>If this project is not taken down due to DMCA, all compiled installers can be downloaded from the <a href ="https://github.com/LuccaWang404/yuzu-installers/releases">Releases page</a>.</b>
+	    <b>As yuzu's repository was forced to be deleted by Nintendo's legal department, and the remaining mirrors were also taken down by DMCA, this project will no longer be updated.</b></br>
+	    <b>If this project is not taken down due to DMCA, all compiled installers can be downloaded from the <a href ="https://github.com/LuccaWang404/yuzu-installers/releases">Releases page</a>.</b>
 </p>
 
 
