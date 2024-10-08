@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/LuccaWang404/yuzu-installers"><img src="https://pic.imgdb.cn/item/64e54e9a661c6c8e54ebf487.png" alt="yuzu-installers" width="150"></a>
+  <a href="https://github.com/LuccaWang404/yuzu-installers"><img src="./yuzu.ico" alt="yuzu-installers" width="150"></a>
 </h1>
 <h5 align="center">
 <b>🍊 柚子模拟器 (yuzu-emu) 安装程序</b>

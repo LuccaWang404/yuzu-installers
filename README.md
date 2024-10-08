@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/LuccaWang404/yuzu-installers"><img src="https://pic.imgdb.cn/item/64e54e9a661c6c8e54ebf487.png" alt="yuzu-installers" width="150"></a>
+  <a href="https://github.com/LuccaWang404/yuzu-installers"><img src="./yuzu.ico" alt="yuzu-installers" width="150"></a>
 </h1>
 
 <h5 align="center">
-<b>yuzu Installer</b>
+<b>yuzu-installer</b>
 </h5>
 
 ENGLISH | [简体中文](./README_CN.md)
